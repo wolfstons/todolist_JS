@@ -1,4 +1,4 @@
-import Todos from "./todos.js";
+import Todos from "./Todos.js";
 
 const pElem = document.querySelector(".todos");
 const ipElem = document.querySelector(".todo-input");
